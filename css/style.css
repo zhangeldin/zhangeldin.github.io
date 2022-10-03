@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
 body {
     display: block;
     margin: 0;
     padding: 0;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 .main {
@@ -18,7 +18,7 @@ body {
     padding: 0 20px;
 }
 h1 {
-    font-size: 45px;
+    font-size: 40px;
     text-align: center;
 }
 .img {
@@ -36,7 +36,7 @@ img {
     padding: 0 20px;
 }
 h2 {
-    font-size: 27px;
+    font-size: 25px;
 }
 p {
     font-size: 20px;
